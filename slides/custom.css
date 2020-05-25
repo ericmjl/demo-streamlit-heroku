@@ -1,5 +1,5 @@
 .reveal section img {
-  max-height: 10%;
+  max-width: 20%;
   border: 0;
+  box-shadow: none;
 }
-

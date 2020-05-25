@@ -13,18 +13,17 @@ Any one of the following:
 
 ----
 
-### GitHub and Git Familiarity
 
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-- You should know some `git`:
+- Make sure you have an account
+- You should know basics:
   - Pushing
   - Pulling
   - Committing Files
 
 ----
 
-### Anaconda Python
 
 ![Anaconda logo](https://www.pinclipart.com/picdir/big/180-1800785_anaconda-python-logo-clipart.png)
 
@@ -32,9 +31,8 @@ Make sure it's installed on your computer!
 
 ----
 
-### Heroku
 
-![Heroku logo](https://brand.heroku.com/static/media/heroku-logotype-horizontal.81c49462.svg)
+![Heroku logo](https://seekvectorlogo.net/wp-content/uploads/2018/12/heroku-vector-logo.png)
 
 Sign up for a free account.
 
@@ -79,12 +77,12 @@ dependencies:
 
 ### Platform as a Service (PaaS)
 
-No manual configuration of web servers!
+- No manual configuration of web servers!
 
-If you've wrestled with web servers before,
+- If you've wrestled with web servers before,
 this is a breath of fresh air.
 
-If you've never wrestled with web servers before,
+- If you've never wrestled with web servers before,
 I hope you never have to!
 
 
